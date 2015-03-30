@@ -18,6 +18,6 @@
         <h1>Prueba en Grupo</h1>
         <h1>LJ2</h1>
         <h1>LJ2</h1>
-        <h1>Segundo Commic</h1>
+        <h1>Segundo Commic2</h1>
     </body>
 </html>
