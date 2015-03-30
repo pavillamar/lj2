@@ -15,7 +15,7 @@
         
         <h1>Hello World!</h1>
         
-        <h1>LJ2</h1>
+        <h1>Prueba en Grupo</h1>
         <h1>LJ2</h1>
         <h1>LJ2</h1>
     </body>
